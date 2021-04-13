@@ -1,0 +1,19 @@
+{
+  "name": "oop-zadatak-vivify-ideas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolene986/oop-zadatak-vivify-ideas.git"
+  },
+  "author": "Jovana Jovanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolene986/oop-zadatak-vivify-ideas/issues"
+  },
+  "homepage": "https://github.com/Jolene986/oop-zadatak-vivify-ideas#readme"
+}
